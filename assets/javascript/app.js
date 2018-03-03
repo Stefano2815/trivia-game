@@ -116,6 +116,11 @@ answers: ["Green & White", "Red & Blue", "Blue, White, & Green", "Red, Blue, & W
 correctAnswer: "Red, Blue, & White",
 image:"assets/images/dustin.jpg"
 
+}, {
+question: "What do the kids call the monster?",
+answers: ["The Aliean", "The Predator", "The Demogorgon", "The Clowns"],
+correctAnswer: "The Demogorgon",
+image:"assets/images/demogorgon.jpg"
 
 
 }];
