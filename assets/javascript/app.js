@@ -18,6 +18,8 @@ $(document).on('click', '#start', function(e) {
 
 
 var questions = [{
+
+
   question: "What city, and state does Stranger Things take place?",
   answers: ["Miami, Florida", "Hawkins, Indiana", "Tampa Florida", "Silicon Valley, California"],
   correctAnswer: "Hawkins, Indiana",
@@ -42,7 +44,7 @@ var questions = [{
 
 }, {
   question: 'Where was Will trapped in the series?',
-  answers: ["The Closet", "The bathroom", "The Upside Down", "The Kitchen"],
+  answers: ["The Closet", "The Bathroom", "The Upside Down", "The Kitchen"],
   correctAnswer: "The Upside Down",
   image:"assets/images/The-Upside-Down.jpg"
 }, {
@@ -69,10 +71,52 @@ correctAnswer: "Eggos",
 image:"assets/images/eggos.JPEG"
 
 }, {
-question: "Who is the sheriff of Hawkins?",
-answers: ["Mike", "Hopper", "Joyce", "Jonathan"],
-correctAnswer: "Hopper",
+question: "Who is the cheif of Hawkins?",
+answers: ["Mike Wheeler", "Jim Hopper", "Joyce Byers", "Jonathan Byers"],
+correctAnswer: "Jim Hopper",
 image:"assets/images/jim-hopper.PNG"
+
+}, {
+question: "What song does Will listen to with his brother Jonathan?",
+answers: ["Don't Stop Believing", "Should I Stay or Should I Go", "Africa", ""],
+correctAnswer: "Should I Stay or Should I Go",
+image:"assets/images/original.jpg"
+
+}, {
+question: "Where does Season 1's suspenseful opening scene take place?",
+answers: ["Hawkins Lab", "Spaceship", "The Byers' House", "", "A CREEPY, DERELICT FARM IN THE MIDDLE OF NOWHERE"],
+correctAnswer: "Hawkins Lab",
+image:"assets/images/HawkinsLab.png"
+
+
+
+}, {
+question: "How many episodes are in the first season?",
+answers: ["Ten", "Fifteen", "Eight", "Twelve"],
+correctAnswer: "Eight",
+image:"assets/images/8Ball.webp"
+
+}, {
+question: "The chilling first Season 1 scene is a reference to which of these prominent '80s sci-fi films?",
+answers: ["Star Wars", "Alien", "Blade Runner", "Close Encounters of The Third Kind"],
+correctAnswer: "Alien",
+image:"assets/images/alien.jpg"
+
+
+}, {
+question: "How does Joyce communicate with Will?",
+answers: ["Walkie Talkies", "Cell Phone", "Christmas Lights", "Email"],
+correctAnswer: "Christmas Lights",
+image:"assets/images/JoyceLights.jpg"
+
+
+}, {
+question: "What colors are Dustin's hat?",
+answers: ["Green & White", "Red & Blue", "Blue, White, & Green", "Red, Blue, & White"],
+correctAnswer: "Red, Blue, & White",
+image:"assets/images/dustin.jpg"
+
+
 
 }];
 
