@@ -19,15 +19,17 @@ body{
   position: relative;
 }
 button{
+  font-family: 'Diplomata SC', cursive;
   display:block;
   width:50%;
   height:20%;
   margin: 0 auto;
   border:pink;
   cursor: pointer;
-  background:transparent;
+  background: none;
   font-size: 42px;;
   color: blue;
+
 }
 
 img{
@@ -46,12 +48,14 @@ h1{
 h2{
   font-size: 35px;
   margin-bottom: 25px;
+  font-family: 'Press Start 2P', cursive;
 
 }
 
 h3{
   font-size: 25px;
   margin-bottom: 10px;
+    font-family: 'Press Start 2P', cursive;
 }
 
 #start{
@@ -65,4 +69,5 @@ h3{
 button:hover {
   border:2px solid red;
   background: pink;
+
 }
