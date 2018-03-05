@@ -127,7 +127,7 @@ image:"assets/images/demogorgon.jpg"
 
 
 }, {
-question: "Where did the gang meet up in season 2?",
+question: "Where did the gang meet up in the first episode of season 2?",
 answers: ["Will's House", "The School", "The Arcade", "Mike's House"],
 correctAnswer: "The Arcade",
 image:"assets/images/source.gif"
