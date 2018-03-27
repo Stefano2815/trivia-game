@@ -64,7 +64,7 @@ var questions = [{
   question: "What is the name of Mike's sister?",
   answers: ["Nancy", "Amanda", "Amy", "Madison"],
   correctAnswer: "Nancy",
-  image: "assets/images/nancy.PNG"
+  image: "assets/images/nancy.png"
 
 }, {
 question: "What is El's favorite food?",
